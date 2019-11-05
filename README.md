@@ -7,8 +7,8 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 <h1>Cómo desplegar el proyecto</h1>
 Mira Deployment para conocer como desplegar el proyecto
 <h3>
-Pre-requisitos 📋
-Que cosas necesitas para instalar el software y como instalarlas</h3>
+Pre-requisitos 📋</h3>
+Que cosas necesitas para instalar el software y como instalarlas
 <h2>
 Instalación 🔧</h2>
 Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose
