@@ -1,8 +1,8 @@
-<h1>Integración Contínua</h1>
+<h1>Integración Contínua </h1>
 <p>Descripción del proyecto</p>
 
 <h2>Integrantes</h2>
-<p>Nombre de los integrantes</p>
+<p>Nombre de los integrantes </p>
 
 <h1>Comenzando 🚀</h1>
 <p >
