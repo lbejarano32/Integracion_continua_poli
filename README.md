@@ -3,7 +3,12 @@
 
 <h2>Integrantes</h2>
 <p>Nombre de los integrantes </p>
-
+<p>
+Adriana Martinez</p>
+<p>Astrid Paba  </p>
+<p>Leonardo Bejarano </p>
+<p>Jeison Lopez</p>
+<p>Roger Angarita</p>  
 <h1>Comenzando 🚀</h1>
 <p >
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas</p>
