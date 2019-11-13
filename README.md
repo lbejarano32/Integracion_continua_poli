@@ -20,6 +20,7 @@ Que cosas necesitas para instalar el software y como instalarlas
 <h3>
 Instalación 🔧</h3>
 Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose
+<p>
 PROCESO DE INSTALACION </h3>
 1. Se descargo  la herramienta diseñada para  el benefic de los  desarrolladores llamda DOCKER, del siguiente link https://docs.docker.com/docker-for-windows/install/
 2. Luego el  enlace nos hace  registrarnos y creamos un usuario que nos permita  descargar el Docker y no  lleva a un  a la descargar final que la  guardamos donde mejor  nos parezca adiconal antes de realizar  esta descarga es bueno tener en cuenta el sistema operativo de nuestras maquinas
