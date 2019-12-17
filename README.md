@@ -26,5 +26,5 @@ PROCESO DE INSTALACION </h3>
 2. Luego el  enlace nos hace  registrarnos y creamos un usuario que nos permita  descargar el Docker y no  lleva a un  a la descargar final que la  guardamos donde mejor  nos parezca adiconal antes de realizar  esta descarga es bueno tener en cuenta el sistema operativo de nuestras maquinas
 3. Despues de intalado el Docker , se debe comenzar  a realizar  los contonedores
 
-
+prueba con travis
   
